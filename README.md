@@ -2,18 +2,10 @@
 
 🎨 **Frontend-focused Web Developer** with a passion for crafting beautiful, interactive, and user-centric digital experiences.  
 💻 With robust full-stack experience, I specialize in building modern web applications that emphasize clean architecture, high performance, and highly responsive UI.  
-🚀 I love exploring new technologies and continuously leveling up my skills to solve complex problems and create meaningful products. Always eager to collaborate on innovative projects and bring creative ideas to life!  
+🚀 I love doing projects and continuously leveling up my skills to solve complex problems and create meaningful products. Always eager to collaborate on innovative projects and bring creative ideas to life!  
 
 🌐 **Portfolio:** [https://phurpasherpa-portfolio.netlify.app](https://phurpasherpa-portfolio.netlify.app)  
-💼 **LinkedIn:** [https://linkedin.com/in/YOUR-LINKEDIN](https://linkedin.com/in/YOUR-LINKEDIN)  
-
----
-
-## 💻 Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+💼 **LinkedIn:** [https://www.linkedin.com/in/phurpa-sherpa/](https://www.linkedin.com/in/phurpa-sherpa/)  
 
 ---
 
