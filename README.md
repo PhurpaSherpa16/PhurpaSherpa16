@@ -27,14 +27,3 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
----
-
-## 🔥 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhurpaSherpa16&layout=compact&theme=date_night)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhurpaSherpa16&show_icons=true&theme=date_night&hide_border=true" alt="PhurpaSherpa16's GitHub stats" height="192" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhurpaSherpa16&layout=compact&theme=date_night&hide_border=true" alt="Top Languages" height="192" />
-</div>
