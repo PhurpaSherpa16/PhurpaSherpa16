@@ -4,7 +4,7 @@
 💻 With robust full-stack experience, I specialize in building modern web applications that emphasize clean architecture, high performance, and highly responsive UI.  
 🚀 I love doing projects and continuously leveling up my skills to solve complex problems and create meaningful products. Always eager to collaborate on innovative projects and bring creative ideas to life!  
 
-🌐 **Portfolio:** [https://phurpasherpa-portfolio.netlify.app](https://phurpasherpa-portfolio.netlify.app)  
+🌐 **Portfolio:** [https://phurpa-sherpa-portfolio.vercel.app/](https://phurpa-sherpa-portfolio.vercel.app/)  
 💼 **LinkedIn:** [https://www.linkedin.com/in/phurpa-sherpa/](https://www.linkedin.com/in/phurpa-sherpa/)  
 
 ---
